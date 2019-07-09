@@ -1,1 +1,2 @@
 This is lab for three way merging of branch. This file is created in master.
+New Line.
